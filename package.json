@@ -1,0 +1,28 @@
+{
+  "name": "hs-vcs",
+  "version": "0.0.0",
+  "description": "simple version control execrsise",
+  "main": "jsvcs.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "rsvp": "^3.0.9",
+    "ncp": "^0.6.0",
+    "sqlite3": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruslim/hs-vcs.git"
+  },
+  "author": "bruslim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bruslim/hs-vcs/issues"
+  },
+  "homepage": "https://github.com/bruslim/hs-vcs"
+}
